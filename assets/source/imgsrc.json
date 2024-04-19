@@ -1,0 +1,102 @@
+[
+    {
+        "title": "avatar",
+        "description": "assets/img/avatar.png"
+    },
+    {
+        "title": "certification-icon-1",
+        "description" : "assets/icons/nextjs.png"
+    },
+    {
+        "title": "blog-one-img",
+        "description":"assets/img/blog/blog-one.jpg"
+    },
+    {
+        "title": "blog-two-img",
+        "description":"assets/img/blog/blog-two.jpg"
+    },
+    {
+        "title":"blog-three-img",
+        "description" :"assets/img/blog/blog-three.webp"
+    },
+    {
+        "title": "blog-four-img",
+        "description" :"assets/img/blog/blog-four.png"
+    },
+    {
+        "title":"blog-five-img",
+        "description": "assets/img/blog/blog-five.png"
+    },
+    {
+        "title":"blog-six-img",
+        "description": "assets/img/blog/blog-six.jpg"
+    },
+    {
+        "title":"blog-seven-img",
+        "description": "assets/img/blog/blog-seven.avif"
+    },
+    {
+        "title":"blog-eight-img",
+        "description": "assets/img/blog/blog-eight.jpg"
+    },
+    {
+        "title":"skills-icon-1",
+        "description":"assets/icons/react.png"
+    },
+    {
+        "title" : "skills-icon-2",
+        "description":"assets/icons/vue.png"
+    },
+    {
+        "title":"skills-icon-3",
+        "description" :"assets/icons/angular.png"
+    },
+    {
+        "title":"skills-icon-4",
+        "description":"assets/icons/nextjs.png"
+    },
+    {
+        "title":"skills-icon-5",
+        "description":"assets/icons/threejs.png"
+    },
+    {
+        "title":"skills-icon-6",
+        "description":"assets/icons/fabricjs.png"
+    },
+    {
+        "title":"skills-icon-7",
+        "description":"assets/icons/nodejs.png"
+    },
+    {
+        "title":"skills-icon-8",
+        "description":"assets/icons/laravel.png"
+    },
+    {
+        "title":"skills-icon-9",
+        "description":"assets/icons/symfony.png"
+    },
+    {
+        "title":"skills-icon-10",
+        "description":"assets/icons/django.png"
+    },
+    {
+        "title":"skills-icon-11",
+        "description":"assets/icons/asp.net.png"
+    },
+    {
+        "title":"skills-icon-12",
+        "description":"assets/icons/solidity.png"
+    },
+    {
+        "title":"skills-icon-13",
+        "description":"assets/icons/solana.png"
+    },
+    {
+        "title":"skills-icon-14",
+        "description":"assets/icons/chatgpt.png"
+    },
+    {
+        "title":"skills-icon-15",
+        "description":"assets/icons/unity.png"
+    }
+]

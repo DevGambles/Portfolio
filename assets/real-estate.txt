@@ -1,0 +1,29 @@
+-NewBuildHomes
+
+Browse our listings to find new build homes for sale. Updated frequently with new properties from across the country.
+
+Location: London, UK
+Year: 2018
+Role: Frontend Developer
+https://new-homes-one.vercel.app/
+Tech Stacks: Next.JS, Rect, SEO, PostgreSQL, Prisma, Node.JS, TypeScript, NextAuth
+
+-Mid Georgia MLS
+
+Middle GA MLS is a real estate service that provides listings for homes for sale in Macon and the surrounding areas of Middle Georgia. They offer a comprehensive search feature on their website, allowing users to find properties by location, price, size, and more. The service is designed to help both buyers and sellers in the real estate market, with up-to-date listings and market price reports for various types of properties, including single-family homes, multi-family homes, land, lots, commercial properties, and more . For those interested in joining the Middle Georgia MLS, they offer membership information and emphasize their reputation as a trusted brand in the real estate profession.
+
+Location: Macon, USA
+Year: 2020
+Role: Frontend Developer
+https://midgamls.com/
+Tech Stacks: WordPress, TypeScript, GA4, MySQL, Yoast SEO, Angular, D3
+
+-Century Communites
+
+Century Communities is a prominent homebuilder in the United States, known for offering a wide range of housing options, including single-family homes, townhomes, condos, and paired homes. They operate in 18 states and over 45 markets, providing a variety of floor plans and quick move-in homes. With a focus on quality and customer satisfaction, they offer a hands-on homebuying process tailored to the needs and lifestyle of their clients. Additionally, they provide in-house services like home loans, title insurance, and home insurance to simplify the homebuying experience.
+
+Location: Colorado, US
+Year: 2022
+Role: Frontend Developer
+https://www.centurycommunities.com/
+Tech Stacks: React, PWA, GA4, SEO, Redux Toolkit, jQuery, Dropzone

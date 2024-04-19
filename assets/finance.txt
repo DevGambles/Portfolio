@@ -1,0 +1,20 @@
+-Disk Stock Trading
+
+In the dynamic and fast-paced world of stock trading, the Disk Stock Trading Platform stands out as a beacon of innovation and efficiency. Designed and developed with the modern trader in mind, this web application leverages the robust capabilities of Next.js, MongoDB, and Python, integrated seamlessly with the Zerodha trading API, to offer an unparalleled trading experience.
+
+Location: Delhi India
+Year: 2024
+Role: Full-Stack Developer
+https://disk-stock-trading.vercel.app/
+Tech Stacks: Next.JS, MongoDB, Vercel, Prisma, AWS, Python, Zedhora, SEO
+
+
+-bonokey.com
+
+Bonokey.com emerges as a pioneering digital platform dedicated to demystifying the banking landscape of Saudi Arabia for its users. With a commitment to providing comprehensive, up-to-date information on various banks across the kingdom, Bonokey.com stands as a critical resource for anyone looking to navigate the complexities of banking services. This platform is meticulously crafted using cutting-edge technologies such as Next.js, PostgreSQL, and ChatGPT-4, supplemented by advanced SEO strategies and the Prisma ORM, to ensure a seamless, informative, and interactive user experience.
+
+Location: Saudi Arabia
+Year: 2022
+Role: Front-End Developer
+https://bonokey.com
+Tech Stacks: Next.JS, PostgreSQL, Heroku, SEO, EmailJS, Redux, Elastic Search, reCaptcha, MUI, TailwindCSS

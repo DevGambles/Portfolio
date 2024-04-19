@@ -1,0 +1,30 @@
+-Ethan Hathaway
+
+Ethan Hathaway is a leading provider of business and finance education, offering a wide array of courses for professionals looking to enhance their skills and knowledge. They cover a broad range of topics, including asset management, corporate finance, risk management, leadership, and much more. Their courses are designed by industry experts and aim to be practical, applicable, and valuable for career growth.
+
+Location: Kowloon, HK
+Year: 2017
+Role: Frontend Developer
+https://www.ethanhathaway.com/
+Tech Stacks: WordPress, MySQL, Svelte, jQuery, PHP, Agile Skrum
+
+-SUNY
+
+The State University of New York (SUNY) is the largest comprehensive university system in the United States. It encompasses 64 institutions, including research universities, academic medical centers, liberal arts colleges, community colleges, colleges of technology, and an online learning network. SUNY offers a wide range of programs and degrees, and it has a significant impact on education, research, and the economy in New York .
+
+
+Location: New York, US
+Year: 2018
+Role: Frontend Developer
+https://www.suny.edu/
+Tech Stacks: Svelte, RequreJS, Google Map, jQuery, Skrollr, SEO, MongoDB
+
+-Learn Pac
+
+LearnPac Systems is a prominent UK provider of accredited online training courses, e-learning programmes, and internationally recognized qualifications. They offer over 500 online training programmes across various sectors, accessible through their interactive online learning portal. With over a decade of experience in the e-learning industry, LearnPac Systems provides a free blended learning environment that can be customized to individual organizations, regardless of size or sector. 
+
+Location: Coventry, UK
+Year: 2019
+Role: Frontend Developer
+https://learnpac.co.uk/
+Tech Stacks: WordPress, WooCommerce, MySQL, Svelte, reCAPTCHA, Google Font API, Font Awesome, Nginx
